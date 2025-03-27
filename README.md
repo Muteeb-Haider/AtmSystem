@@ -99,5 +99,3 @@ nbdist/
 1. Save as `README.md` in your project root
 2. Commit with your NetBeans project files
 3. The diagram will automatically render on GitHub
-
-Would you like me to add any specific NetBeans configuration details or screenshots?
